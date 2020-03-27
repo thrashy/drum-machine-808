@@ -1,0 +1,78 @@
+[[song_beat]]
+  name = "Four on the Floor"
+  beats_per_sequence = 4
+  notes_per_beat = 1
+  beats_per_minute = 128
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 1, 0 ]
+    sn = [ 0, 0, 1, 0 ]
+    hh = [ 0, 1, 0, 1 ]
+
+[[song_beat]]
+  name = "Generic Rock"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 120
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0 ]
+    hh = [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 ]
+
+[[song_beat]]
+  name = "Generic Hip-Hop"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 100
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0 ]
+    hh = [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 ]
+
+[[song_beat]]
+  name = "The Funky Drummer"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 96
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1 ]
+    hh = [ 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1 ]
+    oh = [ 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0 ] 
+
+[[song_beat]]
+  name = "Impeach The President"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 96
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0 ]
+    hh = [ 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0 ]
+    oh = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0 ]
+
+[[song_beat]]
+  name = "When The Levee Breaks"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 144
+
+  [song_beat.pattern]
+    bd = [ 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0 ]
+    oh = [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 ]
+
+[[song_beat]]
+  name = "Cold Sweat"
+  beats_per_sequence = 8
+  notes_per_beat = 2
+  beats_per_minute = 116
+
+  [song_beat.pattern]
+    bd = [ 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0 ]
+    sn = [ 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1 ]
+    rd = [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0 ]
