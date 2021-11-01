@@ -38,7 +38,7 @@ The [song_beat.pattern] section contains a binary representation of a song beat.
 
 Extract all the files from the archive into GOPATH/src. The root folder of the application on my local machine looks like this:
 
-`C:\Users\tom\go\src\github.com\thrashy\drum-machine-808`
+`C:\Users\tflanagan\go\src\github.com\thrashy\drum-machine-808`
 
 From the root of the application run the following commands:
 
